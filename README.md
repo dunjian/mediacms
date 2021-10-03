@@ -9,7 +9,7 @@
 
 
 
-MediaCMS is a modern, fully featured open source video and media CMS. It is developed to meet the needs of modern web platforms for viewing and sharing media. It can be used to build a small to medium video and media portal within minutes. 
+MediaCMS is a modern, fully featured open source video and media CMS. It is developed to meet the needs of modern web platforms for viewing and sharing media. It can be used to build a small to medium video and media portal within minutes. 本项目经过不完整汉化。
 
 It is built mostly using the modern stack Django + React and includes a REST API.
 
